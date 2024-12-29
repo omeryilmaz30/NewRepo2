@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2_HW3_StokTakip_bySql", "HW2_HW3_StokTakip_bySql.csproj", "{EA62AA1A-0342-4773-8BE1-54B27CC9280A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA62AA1A-0342-4773-8BE1-54B27CC9280A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA62AA1A-0342-4773-8BE1-54B27CC9280A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA62AA1A-0342-4773-8BE1-54B27CC9280A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA62AA1A-0342-4773-8BE1-54B27CC9280A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
